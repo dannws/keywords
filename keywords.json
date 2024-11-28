@@ -323,9 +323,7 @@
         "any<space>jesters?",
         "slobberry"
     ],
-    "Vdisallowed": [
-        "bazingasmashlol"
-    ],
+    "Vdisallowed": [],
     "allowedV": [
         "vc",
         "void",
