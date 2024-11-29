@@ -314,7 +314,8 @@
         "trade",
         "trading",
         "ritual",
-        "pinch"
+        "pinch",
+        "DEVELOPERS"
     ],
     "Jdisallowed": [
         "user",
