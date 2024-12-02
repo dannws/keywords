@@ -328,7 +328,9 @@
         "ended",
         "wild",
         "double",
-        "sniper"
+        "sniper",
+        "graveyard",
+        "grave"
     ],
     "Jdisallowed": [
         "user",
