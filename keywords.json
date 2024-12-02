@@ -196,7 +196,8 @@
         "waiting",
         "sailor",
         "screen",
-        "overshoot"
+        "overshoot",
+        "slick"
     ],
     "allowedJ": [
         "jester",
