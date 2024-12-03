@@ -198,7 +198,8 @@
         "screen",
         "overshoot",
         "slick",
-        "wanna"
+        "wanna",
+        "don\u2019t<space>join"
     ],
     "allowedJ": [
         "jester",
