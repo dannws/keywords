@@ -333,7 +333,8 @@
         "sniper",
         "graveyard",
         "grave",
-        "hallaween"
+        "hallaween",
+        "failed"
     ],
     "Jdisallowed": [
         "user",
