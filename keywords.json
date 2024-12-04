@@ -334,7 +334,10 @@
         "graveyard",
         "grave",
         "hallaween",
-        "failed"
+        "failed",
+        "afk",
+        "quest",
+        "lately"
     ],
     "Jdisallowed": [
         "user",
