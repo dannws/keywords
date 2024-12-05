@@ -338,7 +338,10 @@
         "afk",
         "quest",
         "lately",
-        "since"
+        "since",
+        "manifestation",
+        "present",
+        "transpire"
     ],
     "Jdisallowed": [
         "user",
