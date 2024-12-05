@@ -337,7 +337,8 @@
         "failed",
         "afk",
         "quest",
-        "lately"
+        "lately",
+        "since"
     ],
     "Jdisallowed": [
         "user",
