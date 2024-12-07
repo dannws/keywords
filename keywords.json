@@ -304,7 +304,6 @@
         "rich",
         "star",
         "haven\u2019t",
-        "not",
         "macro",
         "spam",
         "animations",
@@ -356,7 +355,8 @@
         "pleez",
         "dupe",
         "pump",
-        "wen"
+        "wen",
+        "not<space>glitch"
     ],
     "Jdisallowed": [
         "user",
