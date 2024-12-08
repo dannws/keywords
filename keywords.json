@@ -204,7 +204,8 @@
         "ples",
         "scam",
         "plis",
-        "not<space>here"
+        "not<space>here",
+        "bailt"
     ],
     "allowedJ": [
         "jester",
@@ -356,7 +357,8 @@
         "dupe",
         "pump",
         "wen",
-        "not<space>glitch"
+        "not<space>glitch",
+        "bailt"
     ],
     "Jdisallowed": [
         "user",
@@ -553,6 +555,7 @@
         1145208241618423931,
         1256591311218151517,
         1,
-        2
+        2,
+        1101545837789724823
     ]
 }
