@@ -367,7 +367,8 @@
         "bailt",
         "andrord",
         "nick",
-        "android"
+        "android",
+        "can<space>someone<space>send"
     ],
     "Jdisallowed": [
         "user",
