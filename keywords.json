@@ -174,7 +174,6 @@
         "rolls",
         "rune<space>biome",
         "dual",
-        "link",
         "sc<space>or<space>br",
         "jester<space>chance",
         "prob<space>a<space>glitch",
@@ -208,7 +207,8 @@
         "bailt",
         "bot",
         "0714c5687555f64f84eb7d224f014803",
-        "66e2cc4cebf4464786f210c6b2f42d53"
+        "66e2cc4cebf4464786f210c6b2f42d53",
+        "(n0/t<space>real[ly)"
     ],
     "allowedJ": [
         "jester",
@@ -578,6 +578,7 @@
         815591290619691028,
         1254232380332314664,
         1315971604236472384,
-        825662828844285962
+        825662828844285962,
+        1156609740630139073
     ]
 }
