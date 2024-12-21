@@ -386,7 +386,8 @@
         "any<space>jesters?",
         "slobberry",
         "celestial",
-        "not<space>jester"
+        "not<space>jester",
+        "roll"
     ],
     "Vdisallowed": [],
     "allowedV": [
@@ -598,6 +599,7 @@
         1271648171096805386,
         994043232654725161,
         800024273581506620,
-        1287659076880175107
+        992441126520885278,
+        1012077343151489065
     ]
 }
