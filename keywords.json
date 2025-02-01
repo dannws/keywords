@@ -403,7 +403,8 @@
         "roll",
         "announcer",
         "craft",
-        "sandstorm"
+        "sandstorm",
+        "memory"
     ],
     "Vdisallowed": [],
     "allowedV": [
