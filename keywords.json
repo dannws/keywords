@@ -419,6 +419,8 @@
         "void",
         "coin"
     ],
+    "Ddisallowed": [],
+    "allowedD": [],
     "blocked_users_ids": [
         1069383819255349279,
         1302546157393940531,
