@@ -419,9 +419,15 @@
         "void",
         "coin"
     ],
-    "Ddisallowed": [],
+    "Ddisallowed": [
+        "looking<space>for"
+    ],
     "allowedD": [
-        "dream"
+        "dream",
+        "dreamscap",
+        "dremscape",
+        "deamscape",
+        "dreamscape"
     ],
     "blocked_users_ids": [
         1069383819255349279,
