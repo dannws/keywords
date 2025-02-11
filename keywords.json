@@ -421,7 +421,8 @@
     ],
     "Ddisallowed": [
         "looking<space>for",
-        "goin"
+        "goin",
+        "not<space>d"
     ],
     "allowedD": [
         "dream",
