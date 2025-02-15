@@ -396,7 +396,8 @@
         "nighttime",
         "real<space>glitch?",
         "owner",
-        "beit"
+        "beit",
+        "||not||"
     ],
     "Jdisallowed": [
         "user",
