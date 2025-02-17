@@ -417,7 +417,9 @@
         "sandstorm",
         "memory"
     ],
-    "Vdisallowed": [],
+    "Vdisallowed": [
+        "exotic"
+    ],
     "allowedV": [
         "vc",
         "void",
