@@ -398,7 +398,8 @@
         "owner",
         "beit",
         "||not||",
-        "spelt"
+        "spelt",
+        "change"
     ],
     "Jdisallowed": [
         "user",
