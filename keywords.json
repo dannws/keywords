@@ -418,7 +418,8 @@
         "announcer",
         "craft",
         "sandstorm",
-        "memory"
+        "memory",
+        "use"
     ],
     "Vdisallowed": [
         "exotic"
