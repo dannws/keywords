@@ -421,7 +421,8 @@
         "craft",
         "sandstorm",
         "memory",
-        "use"
+        "use",
+        "gear<space>a"
     ],
     "Vdisallowed": [
         "exotic"
