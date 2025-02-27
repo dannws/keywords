@@ -401,7 +401,8 @@
         "beit",
         "||not||",
         "spelt",
-        "change"
+        "change",
+        "position"
     ],
     "Jdisallowed": [
         "user",
