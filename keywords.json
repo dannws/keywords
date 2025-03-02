@@ -404,7 +404,8 @@
         "||not||",
         "spelt",
         "change",
-        "position"
+        "position",
+        "not"
     ],
     "Jdisallowed": [
         "user",
