@@ -220,7 +220,8 @@
         "global",
         "gear<space>a",
         "gear<space>b",
-        "same<space>link"
+        "same<space>link",
+        "glitter"
     ],
     "allowedJ": [
         "jester",
