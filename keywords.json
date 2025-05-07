@@ -465,7 +465,8 @@
         "hell",
         "snowy",
         "starlight",
-        "any"
+        "any",
+        "the<space>zero"
     ],
     "allowedD": [
         "dream",
