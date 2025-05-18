@@ -422,7 +422,9 @@
         "cycling",
         "lne",
         "said",
-        "done"
+        "done",
+        "hooray",
+        "free"
     ],
     "Jdisallowed": [
         "user",
@@ -467,7 +469,9 @@
         "snowy",
         "starlight",
         "any",
-        "the<space>zero"
+        "the<space>zero",
+        "hooray",
+        "free"
     ],
     "allowedD": [
         "dream",
@@ -872,6 +876,7 @@
         1373593384450523176,
         1373597926588285010,
         1373600575333077104,
-        1373598200232939536
+        1373598200232939536,
+        1373604224797118496
     ]
 }
